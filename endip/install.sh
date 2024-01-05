@@ -206,8 +206,8 @@ exit
 
 clear
 echo "--------------------------------------------"
-echo "甬哥Github项目  ：github.com/alizarei54"
-echo -e "${yellow}By --> alizarei54 * t.me/alizarei54 *${rest}"
+echo "Github  ：github.com/alizarei54"
+echo -e "${yellow}By --> alizarei54&jafar4361 * t.me/alizarei54 *${rest}"
 echo "--------------------------------------------"
 echo""
 echo -e "${purple}1.${green}IPV4 preferred peer IP${rest}"
