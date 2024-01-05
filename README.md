@@ -9,7 +9,7 @@ inatall
 bash <(curl -fsSL https://raw.githubusercontent.com/alizarei54/warp/main/install.sh)
 ```
 
-![15](https://raw.githubusercontent.com/alizarei54//warp/media/15.jpg)
+![15](https://raw.githubusercontent.com/alizarei54/warp/main/media/15.jpg)
 
 .
 
@@ -18,6 +18,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/alizarei54/warp/main/install
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/alizarei54/warp/main/endip/install.sh)
 ```
-![16](https://raw.githubusercontent.com/alizarei54/warp/media/16.jpg)
+![16](https://raw.githubusercontent.com/alizarei54/warp/main/media/16.jpg)
 
 
