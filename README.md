@@ -18,6 +18,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/alizarei54/warp/main/install
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/alizarei54/warp/main/endip/install.sh)
 ```
-![16](https://raw.githubusercontent.com/alizarei54/warp/main/media/16.jpg)
+![16](https://raw.githubusercontent.com/alizarei54/warp/main/media/17.jpg)
 
 
