@@ -9,7 +9,7 @@ inatall
 bash <(curl -fsSL https://raw.githubusercontent.com/alizarei54/warp/main/install.sh)
 ```
 
-![15](https://raw.githubusercontent.com/alizarei54/warp/main/media/15.jpg)
+![15](https://raw.githubusercontent.com/alizarei54/warp/main/media/14.jpg)
 
 .
 
