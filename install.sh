@@ -1,4 +1,4 @@
-#!/bin/bash
+ffff#!/bin/bash
 
 red='\033[0;31m'
 green='\033[0;32m'
@@ -344,7 +344,7 @@ clear
 echo "********************************"
 Check_WARP_WireGuard_Status
 echo "********************************" 
-echo -e "${yellow}By --> Peyman * Github.com/Ptechgithub *${rest}"
+echo -e "${yellow}By --> alizarei54&jafar4361 * t.me/alizarei54 *${rest}"
 echo ""
 echo -e "${green}Select an option${rest}: ${rest}"
 echo -e "${purple}1) ${green}Install WARP${rest}"
